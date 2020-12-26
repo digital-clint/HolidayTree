@@ -1,1 +1,1 @@
-# HolidayTree
+# Holiday Tree is a simple python program that allows you to create a Holiday Tree using '#' symbols. Choose the number of rows for your tree and enjoy!
